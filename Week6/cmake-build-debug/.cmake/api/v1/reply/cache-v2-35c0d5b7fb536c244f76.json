@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Administrator/Desktop/算法设计实验代码/week4/cmake-build-debug"
+			"value" : "c:/Users/Administrator/Desktop/Algorithm_Expriment_Code/Week6/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Administrator/Desktop/算法设计实验代码/week4"
+			"value" : "C:/Users/Administrator/Desktop/Algorithm_Expriment_Code/Week6"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/week4"
+			"value" : "C:/Program Files (x86)/Week6"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "week4"
+			"value" : "Week6"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "week4_BINARY_DIR",
+			"name" : "Week6_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/Desktop/算法设计实验代码/week4/cmake-build-debug"
+			"value" : "C:/Users/Administrator/Desktop/Algorithm_Expriment_Code/Week6/cmake-build-debug"
 		},
 		{
-			"name" : "week4_IS_TOP_LEVEL",
+			"name" : "Week6_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "week4_SOURCE_DIR",
+			"name" : "Week6_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/Desktop/算法设计实验代码/week4"
+			"value" : "C:/Users/Administrator/Desktop/Algorithm_Expriment_Code/Week6"
 		}
 	],
 	"kind" : "cache",

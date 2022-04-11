@@ -1,0 +1,10 @@
+# ninja log v5
+3	1005	6702569986458644	CMakeFiles/Week6.dir/main.cpp.obj	e384e6b5cd1e8f2e
+3	702	6704154259706001	CMakeFiles/Week6.dir/D.cpp.obj	c88ec70c4cdbe42e
+1277	1905	6704314932009618	Week6.exe	843f9ec0740906f3
+2	225	6704118736995295	CMakeFiles/Week6.dir/A(Hanoi).cpp.obj	cfaabfd15f67b383
+14	255	6704214565485076	CMakeFiles/Week6.dir/F.cpp.obj	441b4006f836c271
+4	155	6704126049846241	CMakeFiles/Week6.dir/B.cpp.obj	b4e2a088bfb55326
+2	1277	6704314925757033	CMakeFiles/Week6.dir/C.cpp.obj	190adc1faf957f65
+3	204	6704214565081066	CMakeFiles/Week6.dir/E.cpp.obj	49639ce1d1c6650f
+13	119	6704306377353433	CMakeFiles/Week6.dir/G.cpp.obj	e5207ebef824de38

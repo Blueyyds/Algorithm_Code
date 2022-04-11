@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "week4.exe"
+			"path" : "OS.exe"
 		},
 		{
-			"path" : "week4.pdb"
+			"path" : "OS.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "week4::@6890427a1f51a3e7e1df",
+	"id" : "OS::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "week4",
-	"nameOnDisk" : "week4.exe",
+	"name" : "OS",
+	"nameOnDisk" : "OS.exe",
 	"paths" : 
 	{
 		"build" : ".",
