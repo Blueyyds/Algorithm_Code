@@ -1,0 +1,12 @@
+# ninja log v5
+7	975	6714700211275239	build.ninja	a67cda1abab31a12
+1	1095	6714700222710239	CMakeFiles/Dynamic_programming.dir/Knapsack.cpp.obj	f2c30f51172f1966
+1098	1454	6714700226290664	Dynamic_programming.exe	3c35a2ea620e6a98
+5	533	6714700923312132	CMakeFiles/Dynamic_programming.dir/Knapsack.cpp.obj	f2c30f51172f1966
+534	812	6714700926104667	Dynamic_programming.exe	3c35a2ea620e6a98
+3	434	6714701279649851	CMakeFiles/Dynamic_programming.dir/Knapsack.cpp.obj	f2c30f51172f1966
+435	618	6714701281439064	Dynamic_programming.exe	3c35a2ea620e6a98
+3	529	6714701443934329	CMakeFiles/Dynamic_programming.dir/Knapsack.cpp.obj	f2c30f51172f1966
+530	801	6714701446629435	Dynamic_programming.exe	3c35a2ea620e6a98
+3	422	6714709025996274	CMakeFiles/Dynamic_programming.dir/Knapsack.cpp.obj	f2c30f51172f1966
+423	669	6714709028427668	Dynamic_programming.exe	3c35a2ea620e6a98
